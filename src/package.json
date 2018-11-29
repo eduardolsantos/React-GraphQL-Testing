@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "apollo-boost": "0.1.22",
+    "enzyme": "3.7.0",
+    "enzyme-adapter-react-16": "1.7.0",
+    "graphql": "14.0.2",
+    "moment": "2",
+    "react": "latest",
+    "react-apollo": "2.3.2",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": ""
+}
